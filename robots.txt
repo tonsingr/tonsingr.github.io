@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tonsingr.github.io/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/app/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/assets/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/css/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/includes/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/item/sitemap.html.gz
+Sitemap: https://tonsingr.github.io/src/sitemap.html.gz
